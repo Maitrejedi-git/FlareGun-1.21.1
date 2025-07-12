@@ -1,0 +1,24 @@
+{
+  "creativetab.flaregunmod.flare_gun": "Flare Gun",
+
+  "item.flaregunmod.flare_gun": "Flare gun",
+  "item.flaregunmod.flare": "Flare",
+  "item.flaregunmod.flare_black": "Black flare",
+  "item.flaregunmod.flare_blue": "Blue flare",
+  "item.flaregunmod.flare_brown": "Brown flare",
+  "item.flaregunmod.flare_cyan": "Cyan flare",
+  "item.flaregunmod.flare_gray": "Gray flare",
+  "item.flaregunmod.flare_green": "Green flare",
+  "item.flaregunmod.flare_light_blue": "Light blue flare",
+  "item.flaregunmod.flare_light_gray": "Light gray flare",
+  "item.flaregunmod.flare_lime": "Lime flare",
+  "item.flaregunmod.flare_magenta": "Magenta flare",
+  "item.flaregunmod.flare_orange": "Orange flare",
+  "item.flaregunmod.flare_pink": "Pink flare",
+  "item.flaregunmod.flare_purple": "Purple flare",
+  "item.flaregunmod.flare_red": "Red flare",
+  "item.flaregunmod.flare_white": "White flare",
+  "item.flaregunmod.flare_yellow": "Yellow flare",
+
+  "entity.mccourse.flare": "Flare"
+}

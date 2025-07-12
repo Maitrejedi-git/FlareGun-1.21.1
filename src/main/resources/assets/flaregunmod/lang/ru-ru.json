@@ -1,0 +1,24 @@
+{
+  "creativetab.flaregunmod.flare_gun": "Flare Gun",
+
+  "item.flaregunmod.flare_gun": "Сигнальный пистолет",
+  "item.flaregunmod.flare": "Сигнальная ракета",
+  "item.flaregunmod.flare_black": "Чёрная сигнальная ракета",
+  "item.flaregunmod.flare_blue": "Синяя сигнальная ракета",
+  "item.flaregunmod.flare_brown": "Коричневая сигнальная ракета",
+  "item.flaregunmod.flare_cyan": "Бирюзовая сигнальная ракета",
+  "item.flaregunmod.flare_gray": "Серая сигнальная ракета",
+  "item.flaregunmod.flare_green": "Зелёная сигнальная ракета",
+  "item.flaregunmod.flare_light_blue": "Голубая сигнальная ракета",
+  "item.flaregunmod.flare_light_gray": "Светло-серая сигнальная ракета",
+  "item.flaregunmod.flare_lime": "Лаймовая сигнальная ракета",
+  "item.flaregunmod.flare_magenta": "Сиреневая сигнальная ракета",
+  "item.flaregunmod.flare_orange": "Оранжевая сигнальная ракета",
+  "item.flaregunmod.flare_pink": "Розовая сигнальная ракета",
+  "item.flaregunmod.flare_purple": "Фиолетовая сигнальная ракета",
+  "item.flaregunmod.flare_red": "Красная сигнальная ракета",
+  "item.flaregunmod.flare_white": "Белая сигнальная ракета",
+  "item.flaregunmod.flare_yellow": "Жёлтая сигнальная ракета",
+
+  "entity.mccourse.flare": "Сигнальная ракета"
+}
