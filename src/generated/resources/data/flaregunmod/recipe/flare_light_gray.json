@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "B": {
+      "item": "flaregunmod:flare"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "flaregunmod:flare_light_gray"
+  }
+}
